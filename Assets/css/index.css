@@ -1,0 +1,35 @@
+/* Common styles */
+body, h1 , p{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* 1st Intro screen */
+.intro-container {
+    width: 100%;
+    height: 100vh;
+}
+
+
+.intro-title {
+    text-align: center;
+    padding-top: 78px;
+    font-size: 80px;
+    color: gold;
+}
+
+.gif {
+    margin: 0 auto;
+    width: 80%;
+    height: 80%;
+}
+
+
+
+
+.works-types-container {
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+}
